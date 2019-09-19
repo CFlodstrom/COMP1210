@@ -1,0 +1,6 @@
+#
+#	Things to do when its time to go home
+#
+if (`tty` != "/dev/console") exit
+kbd_mode -a 		# Make keyboard sane, useful when kill -HUP'ing csh
+/usr/bin/kill -1 -1	# kill any processes that may be still running

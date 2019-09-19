@@ -1,0 +1,9 @@
+<ASWAppPrefs>
+  <WbAutoBackupEnabled>False</WbAutoBackupEnabled>
+  <WbAutoBackupAskUser>True</WbAutoBackupAskUser>
+  <WbAutoBackupLocation>MyDocuments</WbAutoBackupLocation>
+  <WbAutoBackupTimeIntervalHrs>1</WbAutoBackupTimeIntervalHrs>
+  <WbAutoBackupCustomSavePath>
+  </WbAutoBackupCustomSavePath>
+  <WbSerializeCheck>True</WbSerializeCheck>
+</ASWAppPrefs>
